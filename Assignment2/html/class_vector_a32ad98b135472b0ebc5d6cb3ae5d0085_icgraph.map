@@ -1,0 +1,9 @@
+<map id="Vector::clear" name="Vector::clear">
+<area shape="rect" id="node1" title="Clear routine that will clear the contents of the vector." alt="" coords="561,97,657,123"/>
+<area shape="rect" id="node2" href="$class_data_handler.html#abca91cb8f6743670039cb3ea165192a0" title="The main routine to read the .csv files and store the data into a data structure/s...." alt="" coords="316,17,513,43"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a714670001027a0f7d1633218d55ef324" title=" " alt="" coords="146,71,226,98"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a417d88513993401964c1276b5c3f8cec" title=" " alt="" coords="141,122,231,149"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a3cc34aa1507ab5ae9ab1efc726c50630" title=" " alt="" coords="373,173,456,199"/>
+<area shape="rect" id="node3" href="$class_data_handler.html#ab9d14d91e8bf629fa5910ceb4e392da3" title="This routine is used for loading multiple .csv files into the data structure/s. A file should be crea..." alt="" coords="104,5,268,47"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,97,56,123"/>
+</map>

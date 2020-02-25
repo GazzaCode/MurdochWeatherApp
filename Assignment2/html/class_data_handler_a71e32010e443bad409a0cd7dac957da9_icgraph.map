@@ -1,0 +1,4 @@
+<map id="DataHandler::getMapTree" name="DataHandler::getMapTree">
+<area shape="rect" id="node1" title="Gets the mapTree from the DataHandler." alt="" coords="225,5,395,32"/>
+<area shape="rect" id="node2" href="$class_data_handler.html#a5fff5b5ca783230269082dd68627af15" title="Copy constructor to duplicate a DataHandler." alt="" coords="5,5,177,32"/>
+</map>

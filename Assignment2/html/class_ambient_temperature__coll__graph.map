@@ -1,0 +1,4 @@
+<map id="AmbientTemperature" name="AmbientTemperature">
+<area shape="rect" id="node1" title="Class that extends Temperature to store ambient temperature data." alt="" coords="5,145,168,223"/>
+<area shape="rect" id="node2" href="$class_temperature.html" title="Abstract base class to represent temperature data. This has been designed to support different type o..." alt="" coords="39,5,134,97"/>
+</map>

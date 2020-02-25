@@ -1,0 +1,6 @@
+<map id="BST::insert" name="BST::insert">
+<area shape="rect" id="node1" title="Checks if data is not null and then calls the private insert method of the BST class." alt="" coords="561,13,648,39"/>
+<area shape="rect" id="node2" href="$class_data_handler.html#abca91cb8f6743670039cb3ea165192a0" title="The main routine to read the .csv files and store the data into a data structure/s...." alt="" coords="316,13,513,39"/>
+<area shape="rect" id="node3" href="$class_data_handler.html#ab9d14d91e8bf629fa5910ceb4e392da3" title="This routine is used for loading multiple .csv files into the data structure/s. A file should be crea..." alt="" coords="104,5,268,47"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,13,56,39"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="optionFour" name="optionFour">
+<area shape="rect" id="node1" title=" " alt="" coords="5,179,88,205"/>
+<area shape="rect" id="node2" href="$class_vector.html#a0fab8c5fa1d115b7e5b9cf4b2a206e8c" title="Gets the current amount of used objects in the vector (Not including elements that are empty)" alt="" coords="493,103,652,129"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#aee40c43211932e7616aee4b244c3055c" title=" " alt="" coords="336,27,432,53"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a9079d5bdc873decda9d398a1dce0ee44" title=" " alt="" coords="339,77,429,104"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ad1c15cf284bc7f591e7a0e97982b115e" title=" " alt="" coords="159,128,251,155"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a26aba7ca50c57931c2fee64f38ac9f79" title=" " alt="" coords="159,229,251,256"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#ae3156b5695b15adb9bda790eaf036a4f" title=" " alt="" coords="347,179,421,205"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a5f560afb5f94329edd3d812374d4d743" title=" " alt="" coords="323,280,445,307"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#ad65b2a10dcc7e7f499f66726c6b4d466" title=" " alt="" coords="155,331,255,357"/>
+<area shape="rect" id="node10" href="$class_date.html#a611bcd876518f48dbffdc67267e50aec" title="Compares input with months of the year and returns the worded version of the month...." alt="" coords="136,381,275,408"/>
+</map>

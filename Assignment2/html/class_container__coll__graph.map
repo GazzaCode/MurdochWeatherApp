@@ -1,0 +1,9 @@
+<map id="Container" name="Container">
+<area shape="rect" id="node1" title="Class to contain objects that are going to be read and edited by a client. This contains related obje..." alt="" coords="299,448,479,672"/>
+<area shape="rect" id="node2" href="$class_ambient_temperature.html" title="Class that extends Temperature to store ambient temperature data." alt="" coords="5,227,168,305"/>
+<area shape="rect" id="node3" href="$class_temperature.html" title="Abstract base class to represent temperature data. This has been designed to support different type o..." alt="" coords="39,5,134,97"/>
+<area shape="rect" id="node4" href="$class_wind_speed.html" title="Class to contain windspeed data and manipulate when needed." alt="" coords="192,213,301,319"/>
+<area shape="rect" id="node5" href="$class_solar_radiation.html" title="Class to contain solar radiation data and manipulate when needed." alt="" coords="326,213,453,319"/>
+<area shape="rect" id="node6" href="$class_time.html" title="Represents 24 hour time." alt="" coords="477,183,584,349"/>
+<area shape="rect" id="node7" href="$class_date.html" title="Represents a date in day/month/year." alt="" coords="609,147,733,385"/>
+</map>

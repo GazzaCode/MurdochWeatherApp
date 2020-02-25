@@ -1,0 +1,4 @@
+<map id="Vector::getLength" name="Vector::getLength">
+<area shape="rect" id="node1" title="Gets the entire length of the vector (including empty elements)" alt="" coords="160,5,285,32"/>
+<area shape="rect" id="node2" href="$class_vector.html#aa9a7048e2f6f2828097c3c2eaa6ed9dd" title="Copy constructor to clone an object into another useful for changing not const to const vector." alt="" coords="5,5,112,32"/>
+</map>

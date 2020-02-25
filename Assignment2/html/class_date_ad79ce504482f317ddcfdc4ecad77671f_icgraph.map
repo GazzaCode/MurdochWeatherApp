@@ -1,0 +1,21 @@
+<map id="Date::GetYear" name="Date::GetYear">
+<area shape="rect" id="node1" title=" " alt="" coords="736,339,841,365"/>
+<area shape="rect" id="node2" href="$_data_handler_8cpp.html#abe3a559088fbeec628659f0b157709ba" title=" " alt="" coords="582,56,667,83"/>
+<area shape="rect" id="node3" href="$_data_handler_8cpp.html#ad38a8f3fbf1f8488a9a77ae50603de78" title=" " alt="" coords="569,107,680,133"/>
+<area shape="rect" id="node7" href="$class_date_map.html#a59dc2d513f66fa33ed8280df916e5b59" title="Set the date of the DateMap." alt="" coords="561,300,688,327"/>
+<area shape="rect" id="node13" href="$main_8cpp.html#a714670001027a0f7d1633218d55ef324" title=" " alt="" coords="146,333,226,360"/>
+<area shape="rect" id="node14" href="$main_8cpp.html#a3cc34aa1507ab5ae9ab1efc726c50630" title=" " alt="" coords="145,384,227,411"/>
+<area shape="rect" id="node17" href="$main_8cpp.html#a417d88513993401964c1276b5c3f8cec" title=" " alt="" coords="141,435,231,461"/>
+<area shape="rect" id="node4" href="$_data_handler_8cpp.html#a91447168261ae60c26a9347ccc3b56b9" title=" " alt="" coords="376,5,453,32"/>
+<area shape="rect" id="node5" href="$_data_handler_8cpp.html#acd4c148a51663f3611f757da2e15cc32" title=" " alt="" coords="374,56,455,83"/>
+<area shape="rect" id="node6" href="$_data_handler_8cpp.html#a441ca0cdfdba7cdd3e11caad0def9c20" title=" " alt="" coords="372,107,457,133"/>
+<area shape="rect" id="node8" href="$class_data_handler.html#abca91cb8f6743670039cb3ea165192a0" title="The main routine to read the .csv files and store the data into a data structure/s...." alt="" coords="316,224,513,251"/>
+<area shape="rect" id="node11" href="$class_data_handler.html#aaf6f01517015403ed98d02ece93956c2" title="Gets windspeed data for a specified month and stores into a Vecto&lt;float&gt; that is passed in by referen..." alt="" coords="327,275,502,301"/>
+<area shape="rect" id="node15" href="$class_data_handler.html#a51392fd62eb2767c566d61b31eb461e7" title="Gets ambient temperature data for a specified month and stores into a Vecto&lt;float&gt; that is passed in ..." alt="" coords="330,325,499,352"/>
+<area shape="rect" id="node16" href="$class_data_handler.html#aac19cfaddcc6c5e1a5e242253e5f71e7" title="Gets solar radiation data for a specified month and stores into a Vecto&lt;float&gt; that is passed in by r..." alt="" coords="329,427,500,453"/>
+<area shape="rect" id="node18" href="$class_data_handler.html#a64893b290f059742d40e16990f7ce774" title="Gets ambient temperature data for a specified day and month and stores into a Vecto&lt;float&gt; that is pa..." alt="" coords="346,158,483,199"/>
+<area shape="rect" id="node9" href="$class_data_handler.html#ab9d14d91e8bf629fa5910ceb4e392da3" title="This routine is used for loading multiple .csv files into the data structure/s. A file should be crea..." alt="" coords="104,217,268,258"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,308,56,335"/>
+<area shape="rect" id="node12" href="$main_8cpp.html#a4878926a7b1135d77050a27b23f2f855" title=" " alt="" coords="145,283,227,309"/>
+<area shape="rect" id="node19" href="$main_8cpp.html#aa532085a3427a8315433a27afbffdf8f" title=" " alt="" coords="146,165,226,192"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="getAT_M_Y" name="getAT_M_Y">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$class_vector.html#a0fab8c5fa1d115b7e5b9cf4b2a206e8c" title="Gets the current amount of used objects in the vector (Not including elements that are empty)" alt="" coords="144,5,303,32"/>
+</map>

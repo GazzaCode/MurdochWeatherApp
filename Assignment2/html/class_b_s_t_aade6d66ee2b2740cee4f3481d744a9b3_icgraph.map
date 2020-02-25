@@ -1,0 +1,4 @@
+<map id="BST::getRoot" name="BST::getRoot">
+<area shape="rect" id="node1" title="Used within the BST to get the rootPtr." alt="" coords="209,5,309,32"/>
+<area shape="rect" id="node2" href="$class_b_s_t.html#af1dc728328afc09bf24b4df7b3b7c2a6" title="Copy constructor to duplicate a BST." alt="" coords="5,5,161,32"/>
+</map>

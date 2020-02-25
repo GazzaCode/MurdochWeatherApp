@@ -1,0 +1,31 @@
+This entire submission was scanned for malware using Malwarebytes.
+-Scan Summary-
+Scan Type: Custom Scan
+Scan Initiated By: Manual
+Result: Completed
+Objects Scanned: 954
+Threats Detected: 0
+Threats Quarantined: 0
+Time Elapsed: 0 min, 4 sec
+
+What works
+-Program builds and runs under C++11 standard using a g++ compiler.
+-Program reads in data from CSV file and stores into a custom Vector, STL map and custom BST data structures.
+-All menu options work using the data structures stated above (see ApplicationTestPlan.xlsx).
+-Program outputs data exactly as specified.
+-Executable works on computers with and without a g++ compiler.
+
+-Menu option one - works as specified
+-Menu option two - works as specified
+-Menu option three - works as specified
+-Menu option four - works as specified, output data file is called WindTempSolar.csv
+-Menu option five - works as specified
+-Menu option six - works as specified
+
+All application tests passed. (Application tests for main).
+All unit tests passed. (From pervious labs).
+
+What doesent work
+-All the tests pass.
+-Note, a serious bug was found not long before submission, the bug was fixed but I could not
+ thorougly test (at the bottom of getDataFromFile method)

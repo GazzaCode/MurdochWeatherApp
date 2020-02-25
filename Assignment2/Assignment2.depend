@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1555922480 source:c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\src\ambienttemperature.cpp
+	"../headers/AmbientTemperature.h"
+
+1555929435 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\ambienttemperature.h
+	"Temperature.h"
+
+1555999102 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\temperature.h
+
+1558957874 source:c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\src\container.cpp
+	"../headers/Container.h"
+
+1559548124 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\container.h
+	"WindSpeed.h"
+	"SolarRadiation.h"
+	"AmbientTemperature.h"
+	"DATE.h"
+	"TIME.h"
+
+1555929439 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\windspeed.h
+
+1555999108 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\solarradiation.h
+
+1559548143 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\date.h
+	<iostream>
+	<string>
+
+1558514671 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\time.h
+	<iostream>
+	<string>
+
+1559548139 source:c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\src\date.cpp
+	"../headers/DATE.h"
+
+1559547979 source:c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\src\datemap.cpp
+	"../headers/DateMap.h"
+
+1559548067 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\datemap.h
+	<map>
+	"../headers/Container.h"
+	"../headers/VECTOR.h"
+
+1559556438 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\vector.h
+	<vector>
+
+1559550557 source:c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\src\main.cpp
+	<iostream>
+	<limits>
+	<tgmath.h>
+	"../headers/DataHandler.h"
+
+1559549358 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\bst.h
+	"../headers/Node.h"
+
+1559543624 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\node.h
+
+1559547162 c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\headers\datahandler.h
+	<fstream>
+	<sstream>
+	<iostream>
+	"../headers/DATE.h"
+	"../headers/TIME.h"
+	"../headers/Container.h"
+	"../headers/VECTOR.h"
+	"../headers/BST.h"
+	"../headers/DateMap.h"
+
+1555922503 source:c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\src\solarradiation.cpp
+	"../headers/SolarRadiation.h"
+
+1558514671 source:c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\src\time.cpp
+	"../headers/TIME.h"
+
+1555922509 source:c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\src\windspeed.cpp
+	"../headers/WindSpeed.h"
+
+1559556221 source:c:\users\gareth\onedrive - murdoch university\ict283\assignment2\assignment2.2\assignment2\src\datahandler.cpp
+	"../headers/DataHandler.h"
+
+1555922480 source:e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\src\ambienttemperature.cpp
+	"../headers/AmbientTemperature.h"
+
+1555929435 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\ambienttemperature.h
+	"Temperature.h"
+
+1555999102 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\temperature.h
+
+1558957874 source:e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\src\container.cpp
+	"../headers/Container.h"
+
+1559548124 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\container.h
+	"WindSpeed.h"
+	"SolarRadiation.h"
+	"AmbientTemperature.h"
+	"DATE.h"
+	"TIME.h"
+
+1555929439 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\windspeed.h
+
+1555999108 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\solarradiation.h
+
+1559548143 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\date.h
+	<iostream>
+	<string>
+
+1558514671 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\time.h
+	<iostream>
+	<string>
+
+1559573898 source:e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\src\datahandler.cpp
+	"../headers/DataHandler.h"
+
+1559573898 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\datahandler.h
+	<fstream>
+	<sstream>
+	<iostream>
+	"../headers/DATE.h"
+	"../headers/TIME.h"
+	"../headers/Container.h"
+	"../headers/VECTOR.h"
+	"../headers/BST.h"
+	"../headers/DateMap.h"
+
+1559556438 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\vector.h
+	<vector>
+
+1559570054 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\bst.h
+	"../headers/Node.h"
+
+1559548067 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\datemap.h
+	<map>
+	"../headers/Container.h"
+	"../headers/VECTOR.h"
+
+1559548139 source:e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\src\date.cpp
+	"../headers/DATE.h"
+
+1559547979 source:e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\src\datemap.cpp
+	"../headers/DateMap.h"
+
+1559550557 source:e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\src\main.cpp
+	<iostream>
+	<limits>
+	<tgmath.h>
+	"../headers/DataHandler.h"
+
+1555922503 source:e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\src\solarradiation.cpp
+	"../headers/SolarRadiation.h"
+
+1558514671 source:e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\src\time.cpp
+	"../headers/TIME.h"
+
+1555922509 source:e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\src\windspeed.cpp
+	"../headers/WindSpeed.h"
+
+1559543624 e:\ict283_asignment2_gareth_griffiths_32577671\assignment2\headers\node.h
+

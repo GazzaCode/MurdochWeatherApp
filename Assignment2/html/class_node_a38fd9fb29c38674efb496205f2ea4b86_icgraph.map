@@ -1,0 +1,7 @@
+<map id="Node::setLeft" name="Node::setLeft">
+<area shape="rect" id="node1" title="Setter for the left child pointer. Used to tell the node which left node to point to." alt="" coords="261,81,360,108"/>
+<area shape="rect" id="node2" href="$class_b_s_t.html#a57599d36d7aec415ee6e7ee282accd83" title="Used with the copy constructor to recursively copy one BST to another." alt="" coords="28,5,191,32"/>
+<area shape="rect" id="node3" href="$class_b_s_t.html#a518a01abf5a9c092bfeee15595b5e3a9" title="Insert method to correctly and recursively insert a node into the BST." alt="" coords="28,56,191,83"/>
+<area shape="rect" id="node4" href="$class_b_s_t.html#a2128fd4078dedf8fb57213f968e31836" title="Method to remove a node where match = node. Does so safetly (does not effect structure of BST)." alt="" coords="5,107,213,133"/>
+<area shape="rect" id="node5" href="$class_b_s_t.html#a73762f28ab60580216d16ec52fb70c29" title="Method to realocate the root node and deletes the old root node." alt="" coords="10,158,209,199"/>
+</map>

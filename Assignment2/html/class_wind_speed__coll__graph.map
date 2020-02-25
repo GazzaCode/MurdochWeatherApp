@@ -1,0 +1,3 @@
+<map id="WindSpeed" name="WindSpeed">
+<area shape="rect" id="node1" title="Class to contain windspeed data and manipulate when needed." alt="" coords="5,5,115,112"/>
+</map>

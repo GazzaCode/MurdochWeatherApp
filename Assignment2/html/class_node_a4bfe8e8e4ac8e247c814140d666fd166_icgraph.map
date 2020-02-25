@@ -1,0 +1,4 @@
+<map id="Node::setData" name="Node::setData">
+<area shape="rect" id="node1" title="Setter for the data or object being stored in the node." alt="" coords="261,5,367,32"/>
+<area shape="rect" id="node2" href="$class_b_s_t.html#a2128fd4078dedf8fb57213f968e31836" title="Method to remove a node where match = node. Does so safetly (does not effect structure of BST)." alt="" coords="5,5,213,32"/>
+</map>

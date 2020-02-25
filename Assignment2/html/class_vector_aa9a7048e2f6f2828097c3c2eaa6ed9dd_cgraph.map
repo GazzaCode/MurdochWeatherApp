@@ -1,0 +1,5 @@
+<map id="Vector::Vector" name="Vector::Vector">
+<area shape="rect" id="node1" title="Copy constructor to clone an object into another useful for changing not const to const vector." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$class_vector.html#a0fab8c5fa1d115b7e5b9cf4b2a206e8c" title="Gets the current amount of used objects in the vector (Not including elements that are empty)" alt="" coords="160,5,319,32"/>
+<area shape="rect" id="node3" href="$class_vector.html#afa21f49f291124a658120a1fcd92d25e" title="Gets the entire length of the vector (including empty elements)" alt="" coords="177,56,302,83"/>
+</map>

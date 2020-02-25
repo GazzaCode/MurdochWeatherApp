@@ -1,0 +1,4 @@
+<map id="calcTotal" name="calcTotal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node2" href="$class_vector.html#ac10ea00167070d8205d5b69ee16afcfc" title="Gets the current amount of used objects in the vector (Not including elements that are empty)" alt="" coords="128,5,283,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DataHandler::getDataFromFile" name="DataHandler::getDataFromFile">
+<area shape="rect" id="node1" title="The main routine to read the .csv files and store the data into a data structure/s...." alt="" coords="316,13,513,39"/>
+<area shape="rect" id="node2" href="$class_data_handler.html#ab9d14d91e8bf629fa5910ceb4e392da3" title="This routine is used for loading multiple .csv files into the data structure/s. A file should be crea..." alt="" coords="104,5,268,47"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,13,56,39"/>
+</map>

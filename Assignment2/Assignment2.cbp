@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Assignment2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Assignment2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Assignment2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="headers/AmbientTemperature.h" />
+		<Unit filename="headers/BST.h" />
+		<Unit filename="headers/Container.h" />
+		<Unit filename="headers/DATE.h" />
+		<Unit filename="headers/DataHandler.h" />
+		<Unit filename="headers/DateMap.h" />
+		<Unit filename="headers/Node.h" />
+		<Unit filename="headers/SolarRadiation.h" />
+		<Unit filename="headers/TIME.h" />
+		<Unit filename="headers/Temperature.h" />
+		<Unit filename="headers/VECTOR.h" />
+		<Unit filename="headers/WindSpeed.h" />
+		<Unit filename="src/AmbientTemperature.cpp" />
+		<Unit filename="src/Container.cpp" />
+		<Unit filename="src/DATE.cpp" />
+		<Unit filename="src/DataHandler.cpp" />
+		<Unit filename="src/DateMap.cpp" />
+		<Unit filename="src/SolarRadiation.cpp" />
+		<Unit filename="src/TIME.cpp" />
+		<Unit filename="src/WindSpeed.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

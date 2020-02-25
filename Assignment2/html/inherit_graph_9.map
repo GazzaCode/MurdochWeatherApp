@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_temperature.html" title="Abstract base class to represent temperature data. This has been designed to support different type o..." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$class_ambient_temperature.html" title="Class that extends Temperature to store ambient temperature data." alt="" coords="148,5,291,32"/>
+</map>
